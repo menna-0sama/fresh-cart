@@ -1,0 +1,40 @@
+.payment .btn-online{
+    background-color: #2eb92e !important;
+    color: #fff !important;
+    transition: 0.3s !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.payment .btn-online:hover{
+    background-color: #4fdb4f !important;
+    color: #fff !important;
+    transform: scale(1.1) !important;
+}
+
+.modal {
+    z-index: 1502 !important;
+}
+
+.modal-backdrop {
+    z-index: 1501 !important;
+}
+
+.modal .btn-submit{
+    background-color: #2eb92e !important;
+    color: #fff !important;
+    transition: 0.3s !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.modal .btn-submit:hover{
+    background-color: #4fdb4f !important;
+    color: #fff !important;
+    transform: scale(1.1) !important;
+}
+
+.modal input:focus{
+    box-shadow: none !important;
+    border-color: #2eb92e !important;
+}

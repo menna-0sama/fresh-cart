@@ -1,0 +1,18 @@
+.prod .error{
+    min-width: 200px;
+    top: -80px;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: 0.5s;
+}
+
+.prod .minus,
+.prod .plus{
+    transition: 0.3s;
+}
+
+.prod .minus:hover,
+.prod .plus:hover{
+    transform: scale(1.1);
+    background-color: #aaaaaa !important;
+}

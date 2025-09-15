@@ -1,0 +1,13 @@
+.home .btn-wishlist{
+    background-color: #2eb92e;
+    color: #fff;
+}
+
+.home .btn-wishlist:hover{
+    background-color: #49d349;
+    color: #fff;
+}
+
+.home .btn-wishlist a{
+    color: #fff;
+}

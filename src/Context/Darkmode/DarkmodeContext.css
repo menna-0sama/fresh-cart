@@ -1,0 +1,8 @@
+.no-dark{
+    filter: invert(1) hue-rotate(0deg);
+    transition: filter 0.8s;
+}
+
+.dark{
+    transition: filter 0.8s;
+}
